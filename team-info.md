@@ -1,8 +1,8 @@
-# 1. TraFinity
-* 简介：大语言模型赋能的web3钱包
-* 目标：完成开发及demo
-* 是否招募队员：是
-* 招募需求描述：需要合约开发者、Go开发者、Rust开发者、Node开发者、零知识证明工程师、前端和UI设计师加入
+# 1. Terminal3
+* 简介：一个Crypto-native的all-in-one的chrome插件，基于GPT-3.5-turbo模型提供用户口语化的交互形式，以及自定义的快捷按钮。面向web3新人，Terminal3可以一句话为其提供创建钱包、快速转账、NFT Mint等一系列操作；面向web3高阶用户，可以提供闪电借贷、换币最优Gas设计、Flashbot等操作。值得一题的是，Terminal3还嵌入了AI安全支持，包括基于opcode的庞氏合约检测、基于特征识别的黑客地址检测等功能。
+* 目标：完成项目从0到1开发以及demo展示
+* 是否招募队员：否
+* 招募需求描述：暂无
 * 如何联系：WeChat ID: masacs
 # 2. Savourlabs
 * 简介：shadow-x 是一个承载去中心化托管和支付的去中心化的隐私社交网络，底层由两条 layer3 链组成，一条是layer3 去中心化隐私社交链， 另一条是 layer3 去中心化支付托管链，上层的体现类似微信，我们项目已经打磨 1 年之久了，目前 APP 端已接入兼容其他钱包的 HD 钱包(HD钱包进入我们生态可以一键提升为社交恢复钱包)，社交恢复钱包，NFT 信息聚合器，行情聚合器，layer3 去中心化隐私社交链正在开发中，已完成几个组件的开发，社交产品原型，业务层和底层链的交互已经在设计开发中了，layer3 去中心化支付托管链也已经在设计开发中，相信不久我们的产品就和大家见面。
@@ -74,7 +74,7 @@
 * 目标：从0到1开发，实现MVP，并有良好的UI呈现。
 * 是否招募队员：是。需要至少一位前端和一位UI设计；前端最好有web3开发经验，没有的话最好有其他开发项目经验。
 * 如何联系：WeChat ID: 844416650
-# 15. MentorMachines AI
+# 15.ETH Education AI
 * 简介：Captivating AI-powered animated mentor, who unravels the secrets of Ethereum and Scroll, while you seize the opportunity to conquer quizzes and claim NFT rewards on Scroll. 引人入胜的AI驱动的动画导师（会说话的脸），揭示以太坊和Scroll的秘密，同时您抓住机会征服测验并在Scroll上领取NFT奖励。
 * 目标：Website. Animated AI. NFT.
 * 是否招募队员：需要前端（JS、Next.js、React、设计）、NFT 的 Solidity、AI（HuggingFace、GPT）、后端（server setup + integrations）。Looking for Frontend (JS, Next.js, React, design), Solidity for an NFT, AI (HuggingFace, GPT), backend (server setup + integrations).
@@ -89,7 +89,7 @@
 * 目标：尽可能完整地完成这个Dapp，从合约部署到前端交互到开源上线，在过程中不断思考可行的创新点并尝试实现。
 * 是否招募队员：比较想solo ( 如果是北大清华的小伙伴我很愿意一起 ）
 * 如何联系：WeChat ID: EnvyLemon
-# 18. 3CM from [MetaBorn](https://metaborn.me/)
+# 18. 3CM from MetaBorn
 * 简介："跨链只有3厘米"
 全称 Cross-Chain Contract Mining protocol, for new assets launching & identity synchronization。
 区块链跨链一直是安全隐患频发的危险地带。
